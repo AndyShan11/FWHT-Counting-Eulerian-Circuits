@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# Generated data and results
+data/
+results/
+figures/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
