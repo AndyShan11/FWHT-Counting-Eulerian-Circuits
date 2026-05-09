@@ -1,0 +1,16 @@
+Filename,N,M,Genus,Status,Circuits,Time(s),PartialRaw
+AIDS_g430_n21_m28_cr8_augmented.gr,21,28,8,OK,288,0.000398577,1152
+AIDS_g1339_n11_m17_cr7_augmented.gr,11,17,7,OK,312,0.000406227,1248
+AIDS_g1663_n11_m17_cr7_augmented.gr,11,17,7,OK,592,0.000381481,1184
+AIDS_g922_n14_m21_cr8_augmented.gr,14,21,8,OK,480,0.000609071,1920
+AIDS_g1294_n10_m14_cr5_augmented.gr,10,14,5,OK,44,6.132e-05,176
+AIDS_g1619_n7_m9_cr3_augmented.gr,7,9,3,OK,6,9.507e-06,24
+AIDS_g1765_n9_m12_cr4_augmented.gr,9,12,4,OK,12,1.6387e-05,48
+AIDS_g1974_n15_m24_cr10_augmented.gr,15,24,10,OK,4768,0.00676275,19072
+AIDS_g1237_n11_m16_cr6_augmented.gr,11,16,6,OK,112,9.3341e-05,224
+AIDS_g478_n9_m12_cr4_augmented.gr,9,12,4,OK,8,1.3491e-05,32
+AIDS_g1665_n14_m22_cr9_augmented.gr,14,22,9,OK,2544,0.0036865,10176
+AIDS_g366_n13_m21_cr9_augmented.gr,13,21,9,OK,2384,0.00320098,9536
+AIDS_g730_n11_m16_cr6_augmented.gr,11,16,6,OK,80,6.2084e-05,160
+AIDS_g1051_n7_m9_cr3_augmented.gr,7,9,3,OK,8,1.1079e-05,48
+AIDS_g1747_n10_m14_cr5_augmented.gr,10,14,5,OK,32,2.962e-05,64

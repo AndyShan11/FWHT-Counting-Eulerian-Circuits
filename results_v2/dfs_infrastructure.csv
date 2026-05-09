@@ -1,0 +1,17 @@
+Filename,N,M,Genus,Status,Circuits,Time(s),PartialRaw
+inf-power_sub0_n21_m36_cr16.gr,21,36,16,TIMEOUT,0,600.005,2486774375
+inf-power_sub2_n15_m23_cr9.gr,15,23,9,OK,414720,0.179007,829440
+inf-power_sub5_n15_m28_cr14.gr,15,28,14,OK,93450240,299.659,1308303360
+inf-euroroad_sub6_n25_m36_cr12.gr,25,36,12,OK,792576,0.553464,1585152
+inf-euroroad_sub7_n28_m41_cr14.gr,28,41,14,OK,4227072,2.8022,8454144
+inf-euroroad_sub1_n22_m31_cr10.gr,22,31,10,OK,19200,0.014191,38400
+inf-power_sub7_n14_m27_cr14.gr,14,27,14,OK,57507840,34.0139,115015680
+inf-power_sub6_n13_m19_cr7.gr,13,19,7,OK,11520,0.00446711,23040
+inf-euroroad_sub5_n25_m36_cr12.gr,25,36,12,OK,1299456,0.910687,2598912
+inf-power_sub4_n15_m26_cr12.gr,15,26,12,OK,10782720,10.7537,43130880
+inf-euroroad_sub0_n26_m40_cr15.gr,26,40,15,OK,16288128,30.3756,65152512
+inf-euroroad_sub3_n33_m50_cr18.gr,33,50,18,TIMEOUT,0,600,1328006224
+inf-euroroad_sub4_n22_m32_cr11.gr,22,32,11,OK,80640,0.0573712,161280
+inf-power_sub3_n29_m44_cr16.gr,29,44,16,OK,258785280,188.563,517570560
+inf-power_sub1_n29_m43_cr15.gr,29,43,15,OK,318504960,242.777,637009920
+inf-euroroad_sub2_n25_m35_cr11.gr,25,35,11,OK,119040,0.110526,238080
