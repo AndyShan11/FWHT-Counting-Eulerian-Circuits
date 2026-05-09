@@ -1,0 +1,24 @@
+c Source: TUDataset PTC_MR, graph #239
+c Original: n=12, m=12
+c Augmented: +7 edges, n=13 -> m=19, circuit_rank=7
+c Augmented to satisfy Eulerian condition (no parallel edges)
+p sp 13
+e 1 11
+e 5 7
+e 9 10
+e 7 9
+e 11 12
+e 5 6
+e 1 3
+e 7 8
+e 3 5
+e 9 11
+e 1 2
+e 3 4
+e 1 13
+e 3 13
+e 2 11
+e 4 5
+e 6 7
+e 8 9
+e 10 12

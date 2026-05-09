@@ -1,0 +1,16 @@
+Filename,Eulerian Circuits,Time Elapsed (s),Status
+MUTAG_g106_n23_m32_cr10_augmented.gr,4320,0.163814,COMPLETE
+MUTAG_g18_n20_m27_cr8_augmented.gr,384,0.108952,COMPLETE
+MUTAG_g89_n15_m20_cr6_augmented.gr,64,0.0821404,COMPLETE
+MUTAG_g112_n17_m23_cr7_augmented.gr,176,0.0989271,COMPLETE
+MUTAG_g128_n17_m23_cr7_augmented.gr,176,0.0880656,COMPLETE
+MUTAG_g178_n15_m20_cr6_augmented.gr,64,0.0822629,COMPLETE
+MUTAG_g12_n23_m32_cr10_augmented.gr,2624,0.160941,COMPLETE
+MUTAG_g115_n14_m18_cr5_augmented.gr,24,0.0712319,COMPLETE
+MUTAG_g92_n21_m29_cr9_augmented.gr,1312,0.135038,COMPLETE
+MUTAG_g103_n22_m30_cr9_augmented.gr,1248,0.127911,COMPLETE
+MUTAG_g134_n25_m35_cr11_augmented.gr,5248,0.222244,COMPLETE
+MUTAG_g116_n12_m15_cr4_augmented.gr,8,0.065723,COMPLETE
+MUTAG_g124_n14_m18_cr5_augmented.gr,16,0.0659684,COMPLETE
+MUTAG_g10_n20_m27_cr8_augmented.gr,320,0.110036,COMPLETE
+MUTAG_g111_n12_m15_cr4_augmented.gr,8,0.0602328,COMPLETE

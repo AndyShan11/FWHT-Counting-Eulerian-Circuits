@@ -1,0 +1,32 @@
+c Source: inf-power (1-hop neighborhood of node 2586)
+c n=15, m=28, circuit_rank=14
+c Augmented with 4 edges for Eulerian condition
+p sp 15
+e 5 6
+e 4 13
+e 1 4
+e 3 14
+e 1 7
+e 1 10
+e 1 12
+e 7 8
+e 7 9
+e 1 8
+e 5 12
+e 8 9
+e 1 9
+e 1 14
+e 3 4
+e 2 10
+e 1 2
+e 1 5
+e 1 6
+e 1 13
+e 4 14
+e 8 11
+e 1 11
+e 1 3
+e 1 15
+e 3 15
+e 5 7
+e 9 14

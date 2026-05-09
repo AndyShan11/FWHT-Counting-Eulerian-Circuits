@@ -1,0 +1,40 @@
+c Source: inf-euroroad (2-hop neighborhood of node 181)
+c n=25, m=36, circuit_rank=12
+c Augmented with 9 edges for Eulerian condition
+p sp 25
+e 4 5
+e 2 19
+e 22 23
+e 6 7
+e 13 14
+e 13 15
+e 2 10
+e 13 16
+e 17 18
+e 8 23
+e 3 8
+e 2 13
+e 3 18
+e 1 2
+e 3 21
+e 8 9
+e 7 19
+e 9 18
+e 2 3
+e 3 4
+e 3 7
+e 2 20
+e 12 13
+e 3 13
+e 11 18
+e 21 22
+e 1 13
+e 3 5
+e 6 24
+e 7 24
+e 8 10
+e 11 12
+e 13 25
+e 14 25
+e 15 16
+e 17 20

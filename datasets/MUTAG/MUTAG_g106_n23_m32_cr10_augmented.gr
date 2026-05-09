@@ -1,0 +1,37 @@
+c Source: TUDataset MUTAG, graph #106
+c Original: n=20, m=23
+c Augmented: +9 edges, n=23 -> m=32, circuit_rank=10
+c Augmented to satisfy Eulerian condition (no parallel edges)
+p sp 23
+e 4 5
+e 13 14
+e 9 10
+e 18 19
+e 3 12
+e 6 11
+e 5 6
+e 10 11
+e 1 2
+e 9 18
+e 1 14
+e 6 7
+e 15 16
+e 16 17
+e 2 3
+e 11 12
+e 13 15
+e 7 8
+e 18 20
+e 10 16
+e 3 4
+e 12 13
+e 8 9
+e 3 21
+e 12 21
+e 6 22
+e 11 22
+e 9 23
+e 10 23
+e 13 16
+e 17 18
+e 19 20

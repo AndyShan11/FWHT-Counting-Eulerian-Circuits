@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+fwht_solver
+dfs_solver
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.toc
+*.out
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db

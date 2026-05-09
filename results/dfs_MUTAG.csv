@@ -1,0 +1,16 @@
+Filename,N,M,Genus,Status,Circuits,Time(s),PartialRaw
+MUTAG_g106_n23_m32_cr10_augmented.gr,23,32,10,OK,135,0.00305736,8640
+MUTAG_g18_n20_m27_cr8_augmented.gr,20,27,8,OK,14,0.00026742,768
+MUTAG_g89_n15_m20_cr6_augmented.gr,15,20,6,OK,3,4.2748e-05,128
+MUTAG_g112_n17_m23_cr7_augmented.gr,17,23,7,OK,7,0.000105761,352
+MUTAG_g128_n17_m23_cr7_augmented.gr,17,23,7,OK,7,0.00010494,352
+MUTAG_g178_n15_m20_cr6_augmented.gr,15,20,6,OK,3,4.2543e-05,128
+MUTAG_g12_n23_m32_cr10_augmented.gr,23,32,10,OK,82,0.00207414,5248
+MUTAG_g115_n14_m18_cr5_augmented.gr,14,18,5,OK,1,1.4673e-05,48
+MUTAG_g92_n21_m29_cr9_augmented.gr,21,29,9,OK,45,0.00086895,2624
+MUTAG_g103_n22_m30_cr9_augmented.gr,22,30,9,OK,41,0.000954314,2496
+MUTAG_g134_n25_m35_cr11_augmented.gr,25,35,11,OK,149,0.00468649,10496
+MUTAG_g116_n12_m15_cr4_augmented.gr,12,15,4,OK,0,7.332e-06,16
+MUTAG_g124_n14_m18_cr5_augmented.gr,14,18,5,OK,0,1.2867e-05,32
+MUTAG_g10_n20_m27_cr8_augmented.gr,20,27,8,OK,11,0.0002306,640
+MUTAG_g111_n12_m15_cr4_augmented.gr,12,15,4,OK,0,7.549e-06,16

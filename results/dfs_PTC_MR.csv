@@ -1,0 +1,16 @@
+Filename,N,M,Genus,Status,Circuits,Time(s),PartialRaw
+PTC_MR_g42_n12_m16_cr5_augmented.gr,12,16,5,OK,3,2.4773e-05,96
+PTC_MR_g200_n19_m27_cr9_augmented.gr,19,27,9,OK,35,0.000695935,1920
+PTC_MR_g336_n20_m27_cr8_augmented.gr,20,27,8,OK,9,0.000309043,512
+PTC_MR_g123_n21_m30_cr10_augmented.gr,21,30,10,OK,42,0.00138388,2560
+PTC_MR_g190_n10_m13_cr4_augmented.gr,10,13,4,OK,2,1.3781e-05,64
+PTC_MR_g311_n11_m15_cr5_augmented.gr,11,15,5,OK,2,1.8518e-05,64
+PTC_MR_g239_n13_m19_cr7_augmented.gr,13,19,7,OK,23,0.000183945,896
+PTC_MR_g75_n13_m19_cr7_augmented.gr,13,19,7,OK,23,0.000178417,896
+PTC_MR_g149_n13_m18_cr6_augmented.gr,13,18,6,OK,8,7.2209e-05,320
+PTC_MR_g112_n7_m9_cr3_augmented.gr,7,9,3,OK,0,5.185e-06,16
+PTC_MR_g151_n20_m27_cr8_augmented.gr,20,27,8,OK,7,0.000248343,384
+PTC_MR_g146_n11_m14_cr4_augmented.gr,11,14,4,OK,0,1.1592e-05,24
+PTC_MR_g158_n23_m31_cr9_augmented.gr,23,31,9,OK,27,0.00115972,1728
+PTC_MR_g66_n7_m9_cr3_augmented.gr,7,9,3,OK,0,7.769e-06,16
+PTC_MR_g132_n11_m16_cr6_augmented.gr,11,16,6,OK,6,6.9215e-05,192

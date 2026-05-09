@@ -1,0 +1,26 @@
+c Source: TUDataset AIDS, graph #922
+c Original: n=11, m=13
+c Augmented: +8 edges, n=14 -> m=21, circuit_rank=8
+c Augmented to satisfy Eulerian condition (no parallel edges)
+p sp 14
+e 1 8
+e 9 10
+e 2 3
+e 6 7
+e 1 7
+e 3 4
+e 4 7
+e 5 6
+e 2 5
+e 9 11
+e 4 6
+e 3 9
+e 1 2
+e 1 12
+e 8 12
+e 2 13
+e 3 13
+e 4 14
+e 6 14
+e 7 9
+e 10 11
